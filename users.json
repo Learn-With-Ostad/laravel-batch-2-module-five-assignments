@@ -1,0 +1,27 @@
+{
+    "anowarhosensoft@gmail.com": {
+        "username": "Anowar",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "role": "admin"
+    },
+    "megamindjony@gmail.com": {
+        "username": "Anowar",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "role": "user"
+    },
+    "user2@gmail.com": {
+        "username": "Anowar",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "role": "user"
+    },
+    "aj98@gmail.com": {
+        "username": "Anowar",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "role": "user"
+    },
+    "user12@gmail.com": {
+        "username": "Anowar",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "role": "user"
+    }
+}
